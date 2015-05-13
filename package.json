@@ -1,0 +1,19 @@
+{
+  "name": "firestartermedia.github.io",
+  "version": "0.0.0",
+  "description": "FireStarter Media's site",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firestartermedia/firestartermedia.github.io.git"
+  },
+  "author": "Ahmed Nuaman (ahmed@firestartermedia.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firestartermedia/firestartermedia.github.io/issues"
+  },
+  "homepage": "https://github.com/firestartermedia/firestartermedia.github.io#readme"
+}
